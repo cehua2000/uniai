@@ -99,7 +99,7 @@ project/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/uniai-studio.git
+git clone https://github.com/UniAIStudio2048/uniai-studio.git
 cd uniai-studio
 ```
 
