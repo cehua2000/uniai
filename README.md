@@ -1,10 +1,6 @@
 # ⚡ UniAI Studio
 
-<p align="center">
- 
-  ![39817607467546fe4f0137efdc271918](https://github.com/user-attachments/assets/819c4787-364a-40a8-85a3-2a7404136279)
-
-</p>
+<img src="https://github.com/user-attachments/assets/819c4787-364a-40a8-85a3-2a7404136279" width="50" alt="Icon" />
 
 <p align="center">
   <strong>一个现代化的 AI 图片生成与编辑平台</strong>
