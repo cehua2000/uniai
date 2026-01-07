@@ -1,7 +1,8 @@
 # ⚡ UniAI Studio
 
 <p align="center">
-  <img src="public/logo.png" alt="UniAI Studio Logo" width="120">
+  <img src="public/logo.png" alt="UniAI Studio Logo" width="120">![39817607467546fe4f0137efdc271918](https://github.com/user-attachments/assets/819c4787-364a-40a8-85a3-2a7404136279)
+
 </p>
 
 <p align="center">
