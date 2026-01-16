@@ -60,7 +60,7 @@ Thumbs.db
 新建文件夹/
 新建文件夹 (3)/
 
-# Lock files (use npm ci in production)
-# package-lock.json
-# pnpm-lock.yaml
-# yarn.lock
+# Lock files (使用 npm，保留 package-lock.json)
+# package-lock.json  # 保留 npm 锁文件
+pnpm-lock.yaml      # 忽略 pnpm 锁文件
+yarn.lock           # 忽略 yarn 锁文件
